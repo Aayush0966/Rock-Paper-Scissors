@@ -15,7 +15,7 @@ Welcome to the Rock-Paper-Scissors game! This simple yet engaging web applicatio
 
 Here’s a live demo of the Rock-Paper-Scissors game:
 
-![Rock-Paper-Scissors Game](https://aayush0966.github.io/Rock-Paper-Scissors/)
+[Rock-Paper-Scissors Game](https://aayush0966.github.io/Rock-Paper-Scissors/)
 
 You can interact with the game directly by opening the `index.html` file in your browser.
 
